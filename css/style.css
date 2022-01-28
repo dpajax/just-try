@@ -1,0 +1,34 @@
+div {
+    background-color: #000;
+    color: #fff;
+    /* display: inline 40px; */
+   width: 200px;
+   height: 200px; 
+   font-size: 32px;
+   font-family: Arial;    
+   padding: 20px;
+   border-radius: 50px;
+   margin: 15px;
+}
+
+nav {
+    background-color: rgb(247, 224, 222);
+    color: slategrey;
+    width: 200px;
+    height: 200px;
+    font-family: Arial;
+    font-style: italic;
+    font-size:  32px;
+    padding: 20px;
+    border: 5px solid #dfdf82;
+    border-radius: 50px;
+    margin: 15px;
+}
+
+section{
+    display: flex;
+    gap: 24px;
+    margin: 15px;
+}
+
+
